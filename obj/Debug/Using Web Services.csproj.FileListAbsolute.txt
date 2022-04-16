@@ -1,0 +1,14 @@
+F:\Projects\Using Web Services\bin\Debug\Using Web Services.exe.config
+F:\Projects\Using Web Services\bin\Debug\Using Web Services.exe
+F:\Projects\Using Web Services\bin\Debug\Using Web Services.pdb
+F:\Projects\Using Web Services\obj\Debug\Using Web Services.csprojAssemblyReference.cache
+F:\Projects\Using Web Services\obj\Debug\Using Web Services.csproj.CoreCompileInputs.cache
+F:\Projects\Using Web Services\obj\Debug\Using Web Services.exe
+F:\Projects\Using Web Services\obj\Debug\Using Web Services.pdb
+C:\Users\DELL\Downloads\Using Web Services\Using Web Services\bin\Debug\Using Web Services.exe.config
+C:\Users\DELL\Downloads\Using Web Services\Using Web Services\bin\Debug\Using Web Services.exe
+C:\Users\DELL\Downloads\Using Web Services\Using Web Services\bin\Debug\Using Web Services.pdb
+C:\Users\DELL\Downloads\Using Web Services\Using Web Services\obj\Debug\Using Web Services.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Using Web Services\Using Web Services\obj\Debug\Using Web Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Using Web Services\Using Web Services\obj\Debug\Using Web Services.exe
+C:\Users\DELL\Downloads\Using Web Services\Using Web Services\obj\Debug\Using Web Services.pdb
